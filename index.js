@@ -1,6 +1,10 @@
 const app = "I don't do much."
 
+<<<<<<< HEAD
 var kittens = new Array("Milo", "Otis", "Garfield")
+=======
+var kittens = new Array("Milo", "Otis", "Grafield")
+>>>>>>> fe490fd45f7d3dd5fd1ddeb0bf792c7b5b44a704
 
 function destructivelyAppendKitten(name) {
   kittens.push(name)
